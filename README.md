@@ -9,8 +9,8 @@ Complete Python application that automatically analyses news articles for any st
 
 ## Tech Stack :
   Python, 
-  Streamlit
-  TextBlob for accurate sentiment calculations
+  Streamlit,
+  TextBlob for accurate sentiment calculations,
   yFinance
 
   ![image](https://github.com/user-attachments/assets/290ed3dd-2bce-4b30-a891-109d47226ef9)
