@@ -4,8 +4,6 @@ Data Collection and Processing
 Functions for fetching and analyzing stock news data.
 """
 
-import time
-
 import pandas as pd
 import streamlit as st
 import yfinance as yf
