@@ -15,3 +15,5 @@ Complete Python application that automatically analyses news articles for any st
 
   ![image](https://github.com/user-attachments/assets/290ed3dd-2bce-4b30-a891-109d47226ef9)
 
+  https://stock-market-news---sentiment-analyzer-5az4xk3umures4v7bgwzyt.streamlit.app/
+
